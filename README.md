@@ -1,8 +1,9 @@
-# Logica Programación 2
+# Lógica Programación 2
 
 # Conversor de Temperatura en JavaScript
 
-Este repositorio contiene un ejercicio práctico de lógica de programación en **JavaScript**. El programa solicita al usuario una temperatura en grados Celsius, valida que la entrada sea estrictamente un valor numérico y no esté vacio, y realiza la conversión automática a grados Fahrenheit y Kelvin.
+Este repositorio contiene un ejercicio práctico de lógica de programación en **JavaScript**. El programa solicita al usuario una temperatura en grados Celsius. 
+Se valida que la entrada sea estrictamente un valor numérico y no esté vacio, y realiza la conversión automática a grados Fahrenheit y Kelvin.
 
 
 ## 📂 Cómo ejecutar el proyecto
