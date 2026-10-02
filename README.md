@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logica Programación 2
 
 # Conversor de Temperatura en JavaScript
@@ -12,3 +13,6 @@ Este repositorio contiene un ejercicio práctico de lógica de programación en 
 3. Abre las herramientas de desarrollador presionando `F12` o haciendo clic derecho e ingresando a **Inspeccionar**.
 4. Ve a la pestaña **Consola (Console)**.
 5. Pega el código anterior y presiona `Enter` para ver el flujo en acción.
+=======
+# logica-programacion-2
+>>>>>>> 394b641cd5842de50361356173b3b69519f2cd88
